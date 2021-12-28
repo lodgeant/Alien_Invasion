@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="alien.py" />
     <Compile Include="alien_invasion.py" />
     <Compile Include="bullet.py" />
     <Compile Include="game_functions.py" />
