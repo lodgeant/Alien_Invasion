@@ -24,6 +24,7 @@
     <Compile Include="alien.py" />
     <Compile Include="alien_invasion.py" />
     <Compile Include="bullet.py" />
+    <Compile Include="button.py" />
     <Compile Include="game_functions.py" />
     <Compile Include="game_stats.py" />
     <Compile Include="settings.py" />

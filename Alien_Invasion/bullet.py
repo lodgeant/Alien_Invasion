@@ -20,14 +20,12 @@ class Bullet(Sprite):
         self.color = ai_settings.bullet_color
         self.speed_factor = ai_settings.bullet_speed_factor
 
-
     def update(self):
         """ Move the bullet up the screen """
         # Update the deciaml value of the bullet
         self.y -= self.speed_factor
         # Update the rect position
         self.rect.y = self.y
-
 
     def draw_bullet(self):
         """ Draw the bullet to the screen """
