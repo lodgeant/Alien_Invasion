@@ -4,7 +4,9 @@
 
 
 ### Controls
-* **Space Bar**: Shoot bullet
-* **Left Arrow**: Move ship left
-* **Right Arrow**: Move ship right
-* **q**: Quit game
+Key | Action
+--- | ------
+**Space Bar** | Shoot bullet
+**Left Arrow** | Move ship left
+**Right Arrow** | Move ship right
+**q** | Quit game
