@@ -8,6 +8,7 @@ import game_functions as gf
 
 def run_game():
 
+    #
     # Initialise pygame, settings and screen object
     pygame.init()
     ai_settings = Settings()
