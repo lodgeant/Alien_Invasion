@@ -27,6 +27,7 @@
     <Compile Include="button.py" />
     <Compile Include="game_functions.py" />
     <Compile Include="game_stats.py" />
+    <Compile Include="scoreboard.py" />
     <Compile Include="settings.py" />
     <Compile Include="ship.py" />
   </ItemGroup>
